@@ -1,4 +1,4 @@
-# Backend engineer - (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+# Backend engineer |> (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
 
 ## Job description
 Undo is the insurance provider of the future 🔮 We aim to democratize insurance by making it **transparent**, **fair** and **easy**. In addition we want to reinvent insurance as a concept by designing products and experiences that can only be realized by maneuvering on the **bleeding edge of technology**.
