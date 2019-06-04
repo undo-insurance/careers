@@ -5,7 +5,7 @@ Are you an enthusiastic, highly motivated, get-shit-done kind of person? Do you 
 
 Then heads up!
 
-Undo has already kicked in the door in the insurance industry and is now looking to make even more noise. For that, we are looking for an experienced and passionate Android Developer to join our tech team. Is that you?
+Undo has already kicked in the door in the insurance industry and is now looking to make even more noise. For that, we are looking for an passionate and **experienced** Android Developer to join our tech team. Is that you?
 
 ## About UNDO
 With a 25 million DKK funding round in the pocket, Undo is an InsurTech start-up on a mission to change insurance as you know it. We aim to democratize insurance by making it **transparent**, **fair** and **easy**. We want to reinvent insurance as a concept by designing products and experiences that can only be realized by manoeuvring on the **bleeding edge of technology**. The result: a fast, affordable, and hassle-free digital experience, and a month-on-month growth rate of 30-50% for over 6 consecutive months at the time of writing 🚀🚀🚀🚀
