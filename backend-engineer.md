@@ -1,4 +1,4 @@
-# Backend engineer |> (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+# Scala Backend engineer |> (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
 
 ## Job description
 Undo is the insurance provider of the future 🔮 We aim to democratize insurance by making it **transparent**, **fair** and **easy**. In addition we want to reinvent insurance as a concept by designing products and experiences that can only be realized by maneuvering on the **bleeding edge of technology**.
@@ -24,7 +24,7 @@ Our codebase consists mainly of Scala code, and you’ll be working almost exclu
 
 Using these technologies your daily work will consist mainly of producing code that enables new and awesome features 💻 In addition you can expect to be reviewing the code of your co-developers in order to uphold the standards of our codebase and to help your them hone their skills, and you should expect the same from them. As developers we value a frequent feedback loop, as it improves a unified understanding and shared responsibility for the codebase.
 
-Besides working with code you'll be a part of our product development process, where you'll be expected to estimate and prioritize new features and improvements to our product. We use OKRs to govern this process, so you can expect decisions to be highly data driven. Lastly, when developing new features we use the Google Design Sprint framework, and you can expect to be part of feature development from a very early stage. We want people from all parts of our organization to participate in these sprints in order to get the most coherent and thought-through user experience 💡
+Besides working with code you'll be a part of our product development process, where you'll be expected to estimate and prioritize new features and improvements to our product. We use OKRs to govern this process, so you can expect decisions to be highly data driven. Lastly, when developing new features we use a framework akin to Google Design Sprints, and you can expect to be part of feature development from a very early stage. We want people from all parts of our organization to participate in these sprints in order to get the most coherent and thought-through user experience 💡
 
 ## Your profile
 We're looking for both junior and senior profiles, so whether or not you're currently taking your Software Engineering bachelors/masters, or have a lot of experience, you might be who we're looking for. Following is a list of qualities that we'd like to see in a candidate:
@@ -47,7 +47,7 @@ We're looking for both junior and senior profiles, so whether or not you're curr
 
 ## What we offer
 At UNDO you will experience a work culture like nowhere else. We strive to hire people that care about our customers, our product, their colleagues and their craft. We work at a very high pace, but make sure to maintain a culture of celebration at all times. In addition we know, what engineers are worth, so we offer:
-* Highly competitive salary and the possibility of taking part in our key hire equity pool - based on skillset and experience
+* Highly competitive salary and the possibility of obtaining equity in the company from a key hire pool - based on skillset and experience
 * Lots of responsibilities
 * A team of caring co-workers
 * A Macbook Pro or similar work laptop
