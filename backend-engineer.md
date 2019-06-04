@@ -29,7 +29,7 @@ Besides working with code you'll be a part of our product development process, w
 We're looking for both junior and senior profiles, so whether or not you're currently taking your Software Engineering bachelors/masters, or have a loot of experience, you might be who we're looking for. Following is a list of qualities that we'd like to see in a candidate:
 
 ### Important qualities
-* Proficiency in Scala - either obtained though academics, from previous work experience or from personal work
+* Proficiency in Scala - either obtained through academics, from previous work experience or from personal work
 * Experience with building APIs
 * Experience with relational databases
 * Eagerness to learn from _and_ to contribute to the skill-set of the development team
