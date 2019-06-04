@@ -1,4 +1,8 @@
 # Backend engineer
+
+## Status: OPEN
+
+## Job description
 Undo is the insurance provider of the future. We aim to democratize insurance by making it **transparent**, **fair** and **easy**. In addition we want to reinvent insurance as a concept by designing products and experiences that can only be realized by maneuvering on the **bleeding edge of technology**.
 
 We’re looking for skilled backend engineers that want to take part in our journey and not only join a small, ambitious, and close-knit team of developers, but also a family of 14 caring and passionate people that want to enable others to live life carefree. We're currently situated in Copenhagen @ [Talent Garden Rainmaking](https://talentgarden.org/dk/campus/denmark/copenhagen-rainmaking/), but will be moving to new offices @[Spaces](https://www.spacesworks.com/da/koebenhavn/ny-carlsberg-vej/) in the newly renovated Carlsberg City District - both places pulsing with entrepreneurial spirit and drive.
