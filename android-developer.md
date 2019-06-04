@@ -5,7 +5,7 @@ Are you an eager-to-learn, highly motivated, get-shit-done kind of person? Do yo
 
 Then heads up!
 
-Undo has already kicked in the door in the insurance industry and is now looking to make even more noise. For that, we are looking for a newly graduated or passionate, and eager-to-learn Android Developer to join our tech team. Is that you?
+Undo has already kicked in the door in the insurance industry and is now looking to make even more noise. For that, we are looking for a **newly graduated** and **eager-to-learn** Android Developer to join our tech team. Is that you?
 
 
 ## About UNDO
@@ -24,19 +24,20 @@ As developer at UNDO you will not only join a small, ambitious, and close-knit t
 ### You have...
 * a strong theoretical foundation from studying computer science, engineering or similar. 
 * an interest in design patterns, well-structured code, and workflows.
-* a profound passion and interest in for Android development.
+* a profound passion and interest for Android development.
 * a detail oriented working-style
 * an interest in UX and usability.
-* experience with the Android platform
+* experience with the Android platform (preferrably using Kotlin)
 * _Nice-to-have:_ Experience with RxKotlin/RxJava, GraphQL or similar modern technologies.
 
 
 ### Your friends say that...
 * you are a curious and motivated.
 * you are self-propelled and ready to take responsibility. 
-* you are humble, but ambitious
+* you are humble 🙏, but ambitious 💪
 * you have an open mindset and are eager to learn.
 * you are not afraid to share your ideas 💡
+* you get overly excited when new tech is released 🤓
 
 
 Lastly, the application is still young and in BETA, and there is plenty of opportunity to set your footprint on the architecture and choice of frameworks. The Android app is built using the following technologies:
