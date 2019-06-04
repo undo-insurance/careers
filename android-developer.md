@@ -32,11 +32,11 @@ As developer at UNDO you will not only join a small, ambitious, and close-knit t
 
 
 ### Your friends say that...
-* you are a driven, curious, and motivated person.
-* you are self-propelled and ready to take responsibility.
-* you are humble, but ambitious.
+* you are a curious and motivated.
+* you are self-propelled and ready to take responsibility. 
+* you are humble, but ambitious
 * you have an open mindset and are eager to learn.
-* you are not afraid to share your ideas.
+* you are not afraid to share your ideas 💡
 
 
 Lastly, the application is still young and in BETA, and there is plenty of opportunity to set your footprint on the architecture and choice of frameworks. The Android app is built using the following technologies:
