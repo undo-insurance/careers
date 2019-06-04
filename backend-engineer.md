@@ -49,7 +49,7 @@ At UNDO you will experience a work culture like nowhere else. We strive to hire 
 * Highly competitive salary and the option of taking part in our key hire equity pool - based on skillset and experience
 * Lots of responsibilities
 * A team of caring co-workers
-* Free lunch, coffee, soft drinks, snacks, etc.
+* Free coffee, soft drinks, snacks, etc.
 * Friday celebration sessions with beers
 * Flexible work hours and vacation
   * Including working remotely some days/weeks if needed
