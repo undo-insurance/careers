@@ -1,7 +1,7 @@
 # Backend engineer
 Undo is the insurance provider of the future. We aim to democratize insurance by making it **transparent**, **fair** and **easy**. In addition we want to reinvent insurance as a concept by designing products and experiences that can only be realized by maneuvering on the **bleeding edge of technology**.
 
-We’re looking for skilled backend engineers that want to take part in our journey and not only join a small, ambitious, and close-knit team of developers, but also a family of caring and passionate people that want to enable others to live life carefree.
+We’re looking for skilled backend engineers that want to take part in our journey and not only join a small, ambitious, and close-knit team of developers, but also a family of 14 caring and passionate people that want to enable others to live life carefree. We're currently situated in Copenhagen @ Talent Garden Rainmaking, but will be moving to new offices @ Spaces in the newly renovated Carlsberg City District - both places pulsing with entrepreneurial spirit and drive.
 
 You’ll be helping us expand upon our feature set, while contributing to a high degree of maintainability, robustness, and scalability in order to ensure the continued service of our customers. The services we provide can make a huge impact in our customers lives and can be expected to be carried out in moments of dire need. As a result, our product and its foundation needs to be operational and dependable at all times.
 
@@ -20,7 +20,8 @@ Our codebase consists mainly of Scala code, and you’ll be working almost exclu
 * CircleCI
 
 Using these technologies your daily work will consist mainly of producing code that enables new and awesome features. In addition you can expect to be reviewing the code of your co-developers in order to uphold the standards of our codebase and to help your them hone their skills, and you should expect the same from them. As developers we value a frequent feedback loop, as it improves a unified understanding and shared responsibility for the codebase.
-Besides working with code you'll be a part of our product development process, where you'll be expected to estimate and prioritize new features and improvements to our product. We use OKRs to govern this process, so you can expect decisions to be very data driven. Lastly, when developing new features we use the Google Design Sprint framework, and you can expect to be part of feature development from a very early stage. We want people from all parts of our business to participate in these sprints in order to get the most coherent and though-through user experience.
+
+Besides working with code you'll be a part of our product development process, where you'll be expected to estimate and prioritize new features and improvements to our product. We use OKRs to govern this process, so you can expect decisions to be highly data driven. Lastly, when developing new features we use the Google Design Sprint framework, and you can expect to be part of feature development from a very early stage. We want people from all parts of our organization to participate in these sprints in order to get the most coherent and thought-through user experience.
 
 ## Your profile
 ### Must-haves
@@ -31,13 +32,15 @@ Besides working with code you'll be a part of our product development process, w
 * Great problem solving skills
 
 ### Nice-to-have
+* Experience with document databases
+* Experience with event driven architectures
 * Experience with AWS or other cloud technologies
 * Intimate knowledge of the Scala type system
   * Experience with libraries like `cats`, `refined` or similar
 * Experience with Test Driven Development
 
 ## What we offer
-At UNDO you will experience a work culture like nowhere else. We strive to hire people, that care about our customers, our product, their colleagues and their craft. We work at a very high pace, but make sure maintain a culture of celebration and support at all times. In addition we know, what engineers are worth, so we offer:
+At UNDO you will experience a work culture like nowhere else. We strive to hire people that care about our customers, our product, their colleagues and their craft. We work at a very high pace, but make sure to maintain a culture of celebration at all times. In addition we know, what engineers are worth, so we offer:
 * Highly competitive salary
 * Lots of responsibilities
 * A team of caring co-workers
